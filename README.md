@@ -1,4 +1,4 @@
-# Tools / Useful / Plugins
+# Tools / Plugins / Utils
 - [ ] View Redux Store in production build 📜 🔖
 - [ ] List cached responses (using Performance API) 📜 🔖
 - [ ] Boilerplate repo for TypeScript, with Github Actions, ESLint, Prettier, and configured bundler 📁
@@ -6,8 +6,9 @@
 - [ ] Strategy Iterator (using ES6 Generators) 📕
 - [ ] Hookable Objects (using ES6 Proxies) 📕
 - [ ] Vocative for Polish names 📕
+- [ ] List custom methods and variables assigned to window 📜 🔖
 
-# Funny / Creative / Experiments
+# Funny / Creative / Experiments / Meta programming
 - [ ] Descriptive calls (using ES6 Proxies) 📕
 
 # Algorithms / Math / Dynamic programming
