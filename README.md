@@ -10,6 +10,7 @@
 - [ ] List custom methods and variables assigned to window 📜 🔖
 - [ ] Descriptive calls (using ES6 Proxies) 📕
 - [ ] Weighted Random picker 📕
+- [ ] Npx businnes card 📕
 - [ ] Kelly Criterion calculator 📕
 - [ ] Wilson Score calculator 📕
 - [ ] ABSI calculator 📕
