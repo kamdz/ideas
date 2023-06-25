@@ -2,6 +2,7 @@
 - [ ] List cached responses (using Performance API) 📜 🔖
 - [ ] Boilerplate repo for TypeScript, with Github Actions, ESLint, Prettier, and configured bundler 📁
 - [ ] Logic checker for refactor purposes 📕
+- [ ] Binary Permutations 📕
 - [ ] Bookmarklet plugins for popular bundlers 📕
 - [ ] Github Action updating profile page with progress of ideas completed 📁
 - [ ] Strategy Iterator (using ES6 Generators) 📕
